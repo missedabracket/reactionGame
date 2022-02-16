@@ -1,4 +1,4 @@
-from guizero import App, Box, Waffle, info, Combo
+from guizero import App, Waffle, info, Combo
 import random, time
 #Action where a pixel on waffle is clicked
 def clicked(x,y):
